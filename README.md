@@ -1,27 +1,28 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Haithm Al-Akhali
 
 <div align="center">
-  
+
 [![GitHub followers](https://img.shields.io/github/followers/HAITHM-ALAKHALI?label=Follow&style=social)](https://github.com/HAITHM-ALAKHALI)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haithm-al-akhali-8b09552a9/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithm-al-akhali-8b09552a9/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://haithm-al-akhali.vercel.app/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:haithmabdulwali.alakhali@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:haithmabdulwali.alakhali@gmail.com)
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student  
+- 🎓 Computer Science Student  
 - 🌐 Full-Stack Developer  
-- ⚡ Skilled in frontend & backend  
-- 📚 Always learning, always curious  
-- 🎯 Interested in Software Engineering, Networking, and Scalable Systems  
+- ⚡ Skilled in Frontend & Backend Development  
+- 📚 Passionate about continuous learning  
+- 🎯 Interested in Software Engineering, Networking & Scalable Systems  
+- 🚀 Building projects that solve real problems  
 
 ---
 
@@ -29,44 +30,44 @@
 
 <div align="center">
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Languages  
+<img src="https://skillicons.dev/icons?i=js,ts,php,cpp,python,html,css" />
 
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+### Frameworks & Tools  
+<img src="https://skillicons.dev/icons?i=react,vite,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Current Focus
 
-| Project | Tech Stack | Link |
-|---------|------------|------|
-| 🌐 Personal Portfolio | React, Vite, CSS3 | [Live](https://haithm-al-akhali.vercel.app/) |
-| 🍽️ Restaurant Website | PHP, MySQL, HTML/CSS | [Live](https://novarestaurant.liveblog365.com/) |
-| 🧩 Magic Square Game | Vanilla JavaScript | [Live Demo](https://haithm-alakhali.github.io/Magic-Square) · [Repo](https://github.com/HAITHM-ALAKHALI/Magic-Square) |
-| 🛒 Online Store (Python) | Python OOP | [Repo](https://github.com/HAITHM-ALAKHALI/Python-OOP-Online-Store.git) |
-| 🛍️ Online Store (C++) | C++, file storage | [Repo](https://github.com/HAITHM-ALAKHALI/Online-Store.git) |
+- Building modern Full Stack Applications  
+- Mastering React Ecosystem  
+- Improving Backend Architecture Skills  
+- Practicing Clean Code Principles  
+- Preparing for Remote Opportunities  
 
 ---
 
-## 🏆 Certifications (selected)
+## 📌 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🌐 Personal Portfolio | Modern responsive portfolio website | [Live](https://haithm-al-akhali.vercel.app/) |
+| 🍽️ Restaurant Website | Full restaurant system using PHP & MySQL | [Live](https://novarestaurant.liveblog365.com/) |
+| 🧩 Magic Square Game | Interactive JavaScript puzzle game | [Demo](https://haithm-alakhali.github.io/Magic-Square) |
+| 🛒 Online Store (Python) | OOP backend eCommerce system | [Repo](https://github.com/HAITHM-ALAKHALI/Python-OOP-Online-Store.git) |
+| 🛍️ Online Store (C++) | File-based backend system | [Repo](https://github.com/HAITHM-ALAKHALI/Online-Store.git) |
+
+---
+
+## 🏆 Certifications
 
 - 📡 CCNA – Routing & Wireless Essentials  
-- 💻 Building Web Applications in PHP (Coursera)  
-- 🧠 Introduction to Software Engineering (IBM)  
-- 🤖 Introduction to AI (IBM)  
+- 💻 Building Web Applications in PHP  
+- 🧠 Introduction to Software Engineering  
+- 🤖 Introduction to Artificial Intelligence  
 - 🌍 HP LIFE Ambassador  
 
 ---
@@ -74,23 +75,51 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAITHM-ALAKHALI&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAITHM-ALAKHALI&layout=compact&theme=radical" alt="Top Languages" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAITHM-ALAKHALI&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAITHM-ALAKHALI&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## 📫 Connect with Me
+## 📈 Contribution Graph
 
-- 🌐 Portfolio: [haithm-al-akhali.vercel.app](https://haithm-al-akhali.vercel.app/)  
-- 💼 LinkedIn: [haithm-al-akhali](https://www.linkedin.com/in/haithm-al-akhali-8b09552a9/)  
-- 📧 Email: haithmabdulwali.alakhali@gmail.com  
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAITHM-ALAKHALI&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contributions Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://haithm-al-akhali.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithm-al-akhali-8b09552a9/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haithmabdulwali.alakhali@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HAITHM-ALAKHALI.HAITHM-ALAKHALI" />
-  <br/>
-  ⭐ *Thanks for stopping by!* ⭐
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HAITHM-ALAKHALI.HAITHM-ALAKHALI" />
+
+### ⭐ Thanks for visiting my profile ⭐
+
 </div>
