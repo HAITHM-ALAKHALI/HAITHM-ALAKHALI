@@ -23,8 +23,6 @@
 - 📚 Always learning, always curious  
 - 🎯 Interested in Software Engineering, Networking, and Scalable Systems  
 
-> *"Keep it simple. Build with care. Stay curious."*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -55,11 +53,11 @@
 
 | Project | Tech Stack | Link |
 |---------|------------|------|
-| 🍽️ Restaurant Website | PHP, MySQL, HTML/CSS | [GitHub](https://github.com/HAITHM-ALAKHALI) |
+| 🌐 Personal Portfolio | React, Vite, CSS3 | [Live](https://haithm-al-akhali.vercel.app/) |
+| 🍽️ Restaurant Website | PHP, MySQL, HTML/CSS | [Live](https://novarestaurant.liveblog365.com/) |
 | 🧩 Magic Square Game | Vanilla JavaScript | [Live Demo](https://haithm-alakhali.github.io/Magic-Square) · [Repo](https://github.com/HAITHM-ALAKHALI/Magic-Square) |
 | 🛒 Online Store (Python) | Python OOP | [Repo](https://github.com/HAITHM-ALAKHALI/Python-OOP-Online-Store.git) |
 | 🛍️ Online Store (C++) | C++, file storage | [Repo](https://github.com/HAITHM-ALAKHALI/Online-Store.git) |
-| 🌐 Personal Portfolio | React, Vite, CSS3 | [Live](https://haithm-al-akhali.vercel.app/) |
 
 ---
 
@@ -76,8 +74,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAITHM-ALAKHALI&show_icons=true&theme=radical&hide=contribs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAITHM-ALAKHALI&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haithm-al-akhali&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithm-al-akhali&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
