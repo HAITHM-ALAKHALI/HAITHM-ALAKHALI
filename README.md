@@ -74,9 +74,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haithm-al-akhali&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAITHM-ALAKHALI&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithm-al-akhali&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAITHM-ALAKHALI&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
