@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
 </div>
 
 ---
@@ -19,9 +19,10 @@
 
 - 🎓 Computer Science Student  
 - 🌐 Full-Stack Developer  
-- ⚡ Frontend & Backend Developer  
-- 📚 Always Learning New Skills  
-- 🎯 Interested in Software Engineering & Networking  
+- ⚡ Skilled in Frontend & Backend Development  
+- 📚 Passionate about continuous learning  
+- 🎯 Interested in Software Engineering, Networking & Scalable Systems  
+- 🚀 Building projects that solve real problems  
 
 ---
 
@@ -29,21 +30,45 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,cpp,python,html,css,react,vite,mysql,git,github,vscode" />
+### Languages  
+<img src="https://skillicons.dev/icons?i=js,ts,php,cpp,python,html,css" />
+
+### Frameworks & Tools  
+<img src="https://skillicons.dev/icons?i=react,vite,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
+## 🚀 Current Focus
+
+- Building modern Full Stack Applications  
+- Mastering React Ecosystem  
+- Improving Backend Architecture Skills  
+- Practicing Clean Code Principles  
+- Preparing for Remote Opportunities  
+
+---
+
 ## 📌 Featured Projects
 
-| Project | Link |
-|--------|------|
-| 🌐 Portfolio | https://haithm-al-akhali.vercel.app/ |
-| 🍽️ Restaurant Website | https://novarestaurant.liveblog365.com/ |
-| 🧩 Magic Square Game | https://haithm-alakhali.github.io/Magic-Square |
-| 🛒 Python Store | GitHub Repo |
-| 🛍️ C++ Store | GitHub Repo |
+| Project | Description | Link |
+|--------|-------------|------|
+| 🌐 Personal Portfolio | Modern responsive portfolio website | [Live](https://haithm-al-akhali.vercel.app/) |
+| 🍽️ Restaurant Website | Full restaurant system using PHP & MySQL | [Live](https://novarestaurant.liveblog365.com/) |
+| 🧩 Magic Square Game | Interactive JavaScript puzzle game | [Demo](https://haithm-alakhali.github.io/Magic-Square) |
+| 🛒 Online Store (Python) | OOP backend eCommerce system | [Repo](https://github.com/HAITHM-ALAKHALI/Python-OOP-Online-Store.git) |
+| 🛍️ Online Store (C++) | File-based backend system | [Repo](https://github.com/HAITHM-ALAKHALI/Online-Store.git) |
+
+---
+
+## 🏆 Certifications
+
+- 📡 CCNA – Routing & Wireless Essentials  
+- 💻 Building Web Applications in PHP  
+- 🧠 Introduction to Software Engineering  
+- 🤖 Introduction to Artificial Intelligence  
+- 🌍 HP LIFE Ambassador  
 
 ---
 
@@ -51,19 +76,29 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HAITHM-ALAKHALI&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAITHM-ALAKHALI&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAITHM-ALAKHALI&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAITHM-ALAKHALI&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 ---
 
-## 📈 GitHub Streak
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HAITHM-ALAKHALI&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAITHM-ALAKHALI&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contributions Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HAITHM-ALAKHALI/HAITHM-ALAKHALI/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
