@@ -56,7 +56,7 @@
 |--------|-------------|------|
 | 🌐 Personal Portfolio | Modern responsive portfolio website | [Live](https://haithm-al-akhali.vercel.app/) |
 | 🍽️ Restaurant Website | Full restaurant system using PHP & MySQL | [Live](https://novarestaurant.liveblog365.com/) |
-| 🧩 Magic Square Game | Interactive JavaScript puzzle game | [Demo](https://haithm-alakhali.github.io/Magic-Square) |
+| 🧩 Magic Square Game | Interactive JavaScript puzzle game | [Demo](https://haithm-alakhali.github.io/Magic-Square) [Live](https://haithm-alakhali.github.io/Magic-Square/)|
 | 🛒 Online Store (Python) | OOP backend eCommerce system | [Repo](https://github.com/HAITHM-ALAKHALI/Python-OOP-Online-Store.git) |
 | 🛍️ Online Store (C++) | File-based backend system | [Repo](https://github.com/HAITHM-ALAKHALI/Online-Store.git) |
 
@@ -94,11 +94,11 @@
 
 ---
 
-## 🐍 Contributions Snake
+## 📈 GitHub Streak
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HAITHM-ALAKHALI/HAITHM-ALAKHALI/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://streak-stats.demolab.com?user=HAITHM-ALAKHALI&theme=tokyonight" />
 
 </div>
 
